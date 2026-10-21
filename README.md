@@ -17,22 +17,34 @@ The clock uses a 12-hour cycle without AM/PM. On a touchscreen, drag a hand with
 
 Enter **hours** and **minutes**, then choose **Earlier** or **Later**.
 
-For example, starting at **2:40**, choose **1 hour, 40 minutes** and press **Later**:
+For example, starting at **4:45**, choose **1 hour, 40 minutes** and press **Later**:
 
-1. Add 1 hour: **2:40 → 3:40**
-2. Add 20 minutes to reach the next hour: **3:40 → 4:00**
-3. Add the remaining 20 minutes: **4:00 → 4:20**
+1. Reach the next friendly hour: **4:45 → 5:00** (+15 minutes)
+2. Hop whole hours: **5:00 → 6:00** (+1 hour)
+3. Finish with the remaining minutes: **6:00 → 6:25** (+25 minutes)
 
-The app shows these hops below the controls. Earlier works in the same way, moving backward.
+The hops add up to **1 hour 40 minutes**. Earlier follows the same method backward, reaching the previous friendly hour first.
 
 Set hours to **0** for minutes-only practice, or minutes to **0** for hours-only practice. Hours accept **0–12** and minutes accept **0–59**; the total must be greater than zero.
+
+## See the hops
+
+After an Earlier/Later move, switch between two views:
+
+- **Number line:** labeled arrows connect the times. Later moves right; Earlier moves left. Arc spacing is for readability, not to scale.
+- **T-chart:** two columns show each hop and the time it reaches.
+
+Tap a hop in either view to move the analog and digital clocks to that step. The selected step stays highlighted when switching views. The sum underneath adds all hop lengths to show the total time.
+
+Minute hops are blue; whole-hour hops are red, matching the clock hands. Both views support keyboard selection.
 
 ## Practice
 
 Choose the **Practice** tab for a question that crosses an hour boundary.
 
 - Move the hands or type the answer, then press **Check**.
-- Press **Hint** for help reaching the hour boundary.
+- Press **Hint** to see only the first hop to the hour boundary, using either teaching view.
+- After a correct answer, explore the complete journey in either view.
 - **Reset** returns the clock to the question's starting time.
 - **Next** gives another question.
 
