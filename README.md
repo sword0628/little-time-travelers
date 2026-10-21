@@ -13,7 +13,7 @@ A simple, child-friendly clock for learning to tell time and exploring how far a
 
 The clock uses a 12-hour cycle without AM/PM. On a touchscreen, drag a hand with your finger.
 
-## Play
+## Learn
 
 Enter **hours** and **minutes**, then choose **Earlier** or **Later**.
 
@@ -49,7 +49,7 @@ Choose the **Practice** tab for a question that crosses an hour boundary.
 - **Reset** returns the clock to the question's starting time.
 - **Next** gives another question.
 
-Practice questions currently use minute durations. Combined hours and minutes are available in Play.
+Practice questions currently use minute durations. Combined hours and minutes are available in Learn.
 
 ## Run locally
 
