@@ -43,6 +43,7 @@ Minute hops are blue; whole-hour hops are red, matching the clock hands. Both vi
 Choose the **Practice** tab for a question that crosses an hour boundary.
 
 - Move the hands or type the answer, then press **Check**.
+- A correct answer earns a brief congratulations popup and confetti. It closes automatically; you can also dismiss it with × or Escape. Reduced-motion settings keep the message and skip the confetti.
 - Press **Hint** to see only the first hop to the hour boundary, using either teaching view.
 - After a correct answer, explore the complete journey in either view.
 - **Reset** returns the clock to the question's starting time.
